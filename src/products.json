@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Sakız",
+    "price": 0.5,
+    "image": "https://productimages.hepsiburada.net/s/22/375/9952480460850.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Soda",
+    "price": 6,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRLEbfr9V8n5J1ZIUfiHsWVepJnFvkIeIE_nyWn06Ll1DLtsPChjio-dsrPaOrKIJJCHhMAgsUvKOzmN7bcpFsqjpBIKtbkS-93e33DVrPFi1Z4tun4RgR6&usqp=CAE"
+  },
+  {
+    "id": 3,
+    "title": "Ayakkabı",
+    "price": 400,
+    "image": "https://www.ayakkabicity.com/Uploads/UrunResimleri/buyuk/sanzelize-k-07-kadin-sneaker-ayakkabi-47cd.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Araba",
+    "price": 40000,
+    "image": "https://cdn-nq.toyzzshop.com/product/600x600/0f06b_Metal_Cek_Birak_Murat_131_Araba.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Gemi",
+    "price": 80000000,
+    "image": "https://i.ibb.co/sCbmRKV/Ekran-Resmi-2021-04-16-13-45-31.png"
+  },
+  {
+    "id": 6,
+    "title": "Kalem",
+    "price": 0.12,
+    "image": "https://ideacdn.net/idea/dn/03/myassets/products/600/9940-pe21116vk07-1-pensan-versatil-uclu-kalem-my-iq-07mm-mavi.jpg?revision=1697143329"
+  },
+  {
+    "id": 7,
+    "title": "USB",
+    "price": 12.40,
+    "image": "https://www.verbatim-europe.com/files/products/slider-usb-drive/98698-flat-open-black.png"
+  },
+  {
+    "id": 8,
+    "title": "iPad Pro",
+    "price": 1700,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Çanta",
+    "price": 1500000,
+    "image": "https://cdn03.ciceksepeti.com/cicek/kcm30153708-1/XL/uc-gozlu-siyah-ortaokul-lise-okul-canta-seti-erkek-kcm30153708-1-c704a630fb3e43c29d1ffc7b3b5f3cab.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Elmas",
+    "price": 157878777,
+    "image": "https://ideacdn.net/idea/oh/99/myassets/blogs/blog-22.webp?revision=1725169504"
+  },
+  {
+    "id": 11,
+    "title": "Mona Lisa",
+    "price": 2000000000,
+    "image": "https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Ekmek",
+    "price": 0.1,
+    "image": "https://images.migrosone.com/sanalmarket/product/05051211/5051211-e90980-1650x1650.jpg"
+  }
+]

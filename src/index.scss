@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+
+.product-item {
+  padding: 15px;
+  background: #fff;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+  width:21%;
+
+  img {
+    width: 100%;
+    height: auto;
+    max-height: 250px;
+  }
+
+  h6 {
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin: 0px;
+    padding-bottom: 10px;
+  }
+
+  .price {
+    font-weight: 500;
+    font-size: 1rem;
+    padding-bottom: 10px;
+    color: #20a000;
+  }
+
+  .actions {
+    display: flex;
+    gap: 20px;
+
+    .remove-btn {
+      padding: 8px 20px;
+      background-color: #f03c3c;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      max-width: 100px;
+    }
+
+    .buy-btn {
+      padding: 8px 20px;
+      background-color: #20a000;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      max-width: 100px;
+    }
+  }
+}
+
+.product-container{
+  display: flex; 
+  flex-wrap: wrap; 
+  margin-top: 40px;
+  justify-content: space-between;
+}
+
+.header{
+  background-color: green;
+  padding: 20px;
+
+  .header-content{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+    .header-text{
+      color: #fff;
+      font-size: 24px; 
+      font-weight: 500;
+    }
+  }
+}
+
+.basket{
+  border: 1px solid #e7e7e7;
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+
+  .total-text{
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  button{
+    padding: 15px;
+    font-size: 1rem;
+    border: none;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+    font-weight: 500;
+    cursor: pointer;
+  }
+}
+
+.title-amaount-text{
+  font-size: 1rem;
+  font-weight: 500;
+}
